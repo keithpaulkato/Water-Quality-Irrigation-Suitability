@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+
+# Machine learning
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+
+# Deep learning
+tensorflow>=2.16
+
+# Explainable AI
+shap>=0.44
+lime>=0.2.0.1
+
+# Notebook environment
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.29
+ipywidgets>=8.1
