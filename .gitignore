@@ -39,3 +39,10 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Claude Code local config / cache (do not commit)
+.claude/
+
+# LibreOffice / Office lock files
+.~lock.*#
+~$*
