@@ -10,7 +10,7 @@ The project follows a complete end-to-end data science and artificial intelligen
 
 ---
 
-## 👥 Group Members (GROUP 2 – DAY CLASS)
+## 👥 Group Members (GROUP 3 – DAY CLASS)
 
 1. Kigozi Allan – 2400725792
 2. Keith Paul Kato – 2400726593
