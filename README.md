@@ -1,6 +1,6 @@
 # Water Quality Irrigation Suitability Prediction using Machine Learning and Deep Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project develops a comprehensive environmental artificial intelligence framework for predicting irrigation water suitability using machine learning and deep learning techniques.
 
@@ -10,7 +10,7 @@ The project follows a complete end-to-end data science and artificial intelligen
 
 ---
 
-## 👥 Group Members (GROUP 3 – DAY CLASS)
+##  Group Members (GROUP 3 – DAY CLASS)
 
 1. Kigozi Allan – 2400725792
 2. Keith Paul Kato – 2400726593
@@ -20,7 +20,7 @@ The project follows a complete end-to-end data science and artificial intelligen
 
 ---
 
-## 🎓 Course Information
+##  Course Information
 
 * **Course:** Introduction to Machine Learning (CSC 2201)
 * **Lecturer:** Dr. Lillian Muyama
@@ -29,7 +29,7 @@ The project follows a complete end-to-end data science and artificial intelligen
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Poor irrigation water quality can negatively affect crop productivity, soil health, and long-term agricultural sustainability. Traditional laboratory-based water assessment approaches may be expensive, slow, and inaccessible in many regions. Additionally, environmental water-quality conditions vary across locations and environmental conditions, making manual interpretation difficult.
 
@@ -37,7 +37,7 @@ This project applies machine learning and deep learning techniques to analyze en
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 ### General Objective
 
@@ -57,13 +57,13 @@ To develop interpretable machine learning and deep learning models for irrigatio
 
 ---
 
-## 🧪 Dataset Description
+##  Dataset Description
 
 The dataset contains citizen-science environmental water-quality monitoring observations collected from multiple biosphere reserves, rivers, and environmental monitoring sites.
 
 The data includes physicochemical, environmental, temporal, and geospatial attributes relevant to irrigation suitability assessment.
 
-### 📌 Key Features
+###  Key Features
 
 * pH
 * Dissolved Oxygen Concentration
@@ -77,7 +77,7 @@ The data includes physicochemical, environmental, temporal, and geospatial attri
 * Altitude
 * Local Time Information
 
-### 📌 Dataset Characteristics
+###  Dataset Characteristics
 
 * Multivariate environmental dataset
 * Structured tabular dataset
@@ -86,7 +86,7 @@ The data includes physicochemical, environmental, temporal, and geospatial attri
 
 ---
 
-## 🎯 Target Variable
+## Target Variable
 
 * `Irrigation Suitability`
 
@@ -95,7 +95,7 @@ The data includes physicochemical, environmental, temporal, and geospatial attri
 
 ---
 
-## 🔁 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data Collection
 2. Exploratory Data Analysis (EDA)
@@ -112,7 +112,7 @@ The data includes physicochemical, environmental, temporal, and geospatial attri
 
 ---
 
-## ⚙️ Models Implemented
+##  Models Implemented
 
 ### 🔹 Machine Learning Models
 
@@ -135,7 +135,7 @@ The data includes physicochemical, environmental, temporal, and geospatial attri
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The models are evaluated using multiple performance metrics including:
 
@@ -155,13 +155,13 @@ Deep learning models are additionally evaluated using:
 
 ---
 
-## 🧠 Explainable AI
+##  Explainable AI
 
 Explainable AI techniques such as feature importance analysis and SHAP (SHapley Additive exPlanations) are used to interpret model predictions and identify the most influential environmental parameters affecting irrigation suitability.
 
 ---
 
-## ⚠️ Key Challenges Addressed
+##  Key Challenges Addressed
 
 * Missing environmental measurements
 * Sensor-related outliers and noisy observations
@@ -172,7 +172,7 @@ Explainable AI techniques such as feature importance analysis and SHAP (SHapley 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * `data/` → raw and processed environmental data
 * `notebooks/` → EDA and model development
@@ -184,7 +184,7 @@ Explainable AI techniques such as feature importance analysis and SHAP (SHapley 
 
 ---
 
-## 🌍 Significance of the Study
+##  Significance of the Study
 
 This project addresses real-world environmental and agricultural challenges by applying machine learning and deep learning techniques to water-quality monitoring data. The findings can support sustainable irrigation practices, environmental monitoring initiatives, agricultural decision-making, and intelligent water resource management.
 
@@ -192,7 +192,7 @@ Additionally, the study demonstrates how artificial intelligence can be applied 
 
 ---
 
-## 🚀 Expected Outcomes
+##  Expected Outcomes
 
 The project is expected to:
 
@@ -204,7 +204,7 @@ The project is expected to:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 Potential future improvements include:
 
@@ -217,7 +217,7 @@ Potential future improvements include:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates how machine learning and deep learning techniques can be applied to environmental water-quality monitoring and irrigation suitability prediction. Through statistical analysis, feature engineering, predictive modelling, explainable AI, and environmental interpretation, the study provides an intelligent framework for sustainable agricultural water management and environmental decision-making.
 
