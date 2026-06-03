@@ -217,6 +217,25 @@ Potential future improvements include:
 
 ---
 
+## Real-World Application
+
+Beyond a coursework deliverable, the framework targets concrete operational use cases.
+
+### Farmer Decision Support
+Extension officers and smallholders can use a phone-friendly version of the model to obtain an **instant suitability verdict** plus a SHAP-style explanation ("this sample was flagged because EC is 4.1 mS/cm — above the FAO safe range"). This converts an opaque ML output into an **actionable farming decision**.
+
+### Sustainable Irrigation Management
+Water-user associations can run the classifier as a **batch quality filter** over weekly sensor uploads, prioritising lab follow-up only on the samples the model flags as borderline. This reduces lab cost without losing safety margin.
+
+### Water Conservation
+By distinguishing *unsuitable* sources early, communities can divert poor-quality water to **livestock, non-edible crops, or recharge ponds** instead of discarding it — extending the usable water budget in dry seasons.
+
+### Smart-Agriculture Integration
+The model is small enough to be deployed at the edge (on a Raspberry Pi or low-cost gateway) co-located with the sensor cluster. This enables **offline operation** in areas with intermittent connectivity and minimises data-egress costs.
+
+### Policy & Regulatory Insight
+Aggregated model outputs — paired with the geospatial analysis in section 3.11 — give regulators a near-real-time map of **which biospheres are degrading**, supporting evidence-based water-quality interventions.
+
 ##  Conclusion
 
 This project demonstrates how machine learning and deep learning techniques can be applied to environmental water-quality monitoring and irrigation suitability prediction. Through statistical analysis, feature engineering, predictive modelling, explainable AI, and environmental interpretation, the study provides an intelligent framework for sustainable agricultural water management and environmental decision-making.
